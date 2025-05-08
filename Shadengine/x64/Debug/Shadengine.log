@@ -1,0 +1,18 @@
+﻿  Events.cpp
+  Main.cpp
+E:\GameDev\Cpp\Shadengine\Window.h(4,7): warning C4099: GLFWwindow: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+  (компиляция исходного файла "Events.cpp")
+      E:\Libraries\Include\GLFW\glfw3.h(1403,16):
+       см. объявление "GLFWwindow"
+  
+E:\GameDev\Cpp\Shadengine\Events.cpp(19,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\GameDev\Cpp\Shadengine\Events.cpp(20,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\GameDev\Cpp\Shadengine\Events.cpp(25,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\GameDev\Cpp\Shadengine\Events.cpp(26,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\GameDev\Cpp\Shadengine\Window.h(4,7): warning C4099: GLFWwindow: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+  (компиляция исходного файла "Main.cpp")
+      E:\Libraries\Include\GLFW\glfw3.h(1403,16):
+       см. объявление "GLFWwindow"
+  
+  Создание кода...
+  Shadengine.vcxproj -> E:\GameDev\Cpp\Shadengine\x64\Debug\Shadengine.exe
